@@ -29,6 +29,10 @@ In this project you will find different endpoints where you can get, post, patch
         - '/:quoteId' (Get, Delete, Patch)
         - '/author/:authorId' (Get)
 
+# Requirements
+    To correctly deploy this project on your local environment, you should have:
+    - NodeJs
+
 
 # Deploy and Start
     To deploy this project you should do the next steps:
