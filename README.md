@@ -39,3 +39,4 @@ In this project you will find different endpoints where you can get, post, patch
         - Clone the repository into your local environment
         - Do the "npm install" command on the root directory folder of the project
         - Do the "npm start" command to start the project
+    Run the App on the port 3000 on your local environment (http://localhost:3000)
